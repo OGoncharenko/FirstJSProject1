@@ -1,7 +1,6 @@
 {
   "name": "FirstJSProject",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "npx wdio wdio.conf.js"
@@ -23,5 +22,17 @@
   },
   "dependencies": {
     "chai": "^4.3.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGoncharenko/FirstJSProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OGoncharenko/FirstJSProject/issues"
+  },
+  "homepage": "https://github.com/OGoncharenko/FirstJSProject#readme",
+  "description": ""
 }
